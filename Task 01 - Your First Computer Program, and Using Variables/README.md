@@ -1,4 +1,4 @@
-# Task 1 - Your First Computer Program, and Using Variables
+# Task 01 - Your First Computer Program, and Using Variables
 
 This task is divided into two objectives:
 
