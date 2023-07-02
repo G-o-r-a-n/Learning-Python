@@ -1,4 +1,4 @@
-# Task 2 - The String Data Type
+# Task 02 - The String Data Type
 
 This task is divided into two objectives:
 
