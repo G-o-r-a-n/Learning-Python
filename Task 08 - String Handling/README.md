@@ -13,12 +13,12 @@ The goal of this task is to:
 
 The script contains the following functions:
 
-- **alternate_characters(original_sentence):** This function accepts a string and alternates the case of every character in it, returning the modified string.
-- **alternate_words(original_sentence):** This function accepts a string, alternates the case of every word in it, and returns the modified string.
-- **welcome_menu(first_time = True):** This function displays the welcome menu with alteration options for the user. The first_time parameter checks whether it's the user's first time running the script.
-- **run_program_again(first_time, re_run):** This function checks whether the user wants to run the program again, returning a tuple with updated values of 'first_time' and 're_run'.
+- `alternate_characters(original_sentence)`: This function accepts a string and alternates the case of every character in it, returning the modified string.
+- `alternate_words(original_sentence)`: This function accepts a string, alternates the case of every word in it, and returns the modified string.
+- `welcome_menu(first_time = True)`: This function displays the welcome menu with alteration options for the user. The first_time parameter checks whether it's the user's first time running the script.
+- `run_program_again(first_time, re_run)`: This function checks whether the user wants to run the program again, returning a tuple with updated values of 'first_time' and 're_run'.
 
-Upon execution, the program prompts the user to choose an alteration type and input the sentence to be altered. Based on the user's choice, it applies the corresponding function (**alternate_characters()** or **alternate_words()**) to create the altered sentence.
+Upon execution, the program prompts the user to choose an alteration type and input the sentence to be altered. Based on the user's choice, it applies the corresponding function (`alternate_characters()` or `alternate_words()`) to create the altered sentence.
 
 Finally, the program queries the user on whether they want to continue altering sentences, thereby giving them an option to exit or continue running the script.
 
