@@ -12,19 +12,20 @@ The objectives of this task are to:
 1. Calculate the `total_stock` worth in the cafe. This requires looping through the appropriate dictionaries and lists.
 1. Print out the result of the `total_stock` calculation.
 
+The Python script that accomplishes this can be found in the file: [lists_dictionaries_cafe_stock.py](https://github.com/G-o-r-a-n/Learning-Python/blob/main/Task%2009%20-%20Beginner%20Data%20Structures%20-%20Lists%20and%20Dictionaries/lists_dictionaries_cafe_stock.py).
+
 ## Code Explained:
 
 The script follows these steps:
 
-- **Menu and Stock Initialization**: The script starts by initializing the menu list, and stock and price dictionaries. These serve as the basic data structures holding our cafe data.
+- **Menu and Stock Initialisation**: The script starts by initialising the menu list, and stock and price dictionaries. These serve as the basic data structures holding our cafe data.
 - **Calculation**: Then, for every item on the menu, the script calculates the total value of that item (quantity times price) and adds it to the total stock worth.
 - **Display**: Lastly, the script prints out the total stock value of the cafe.
 
-The Python script that accomplishes this can be found in the file: [lists_dictionaries_cafe_stock.py](https://github.com/G-o-r-a-n/Learning-Python/blob/main/Task%2009%20-%20Beginner%20Data%20Structures%20-%20Lists%20and%20Dictionaries/lists_dictionaries_cafe_stock.py).
-
 ## Usage:
 
-To utilize this script, execute the Python file in your terminal. It calculates and prints the total value of items in stock based on the prices and quantity of items available.
+To utilise this script, execute the Python file in your terminal. It calculates and prints the total value of items in stock based on the prices and quantity of items available.
+
 ```
 python lists_dictionaries_cafe_stock.py
 ```
