@@ -16,4 +16,4 @@ Validation rules:
 1. If the user has entered more than 35 characters, display: "You have entered more than 35 characters. Please make sure that you have only entered your full name."
 1. If the user input is valid, display: "Thank you for entering your name."
 
-The code for this objective can be found in the file: [full_name.py](https://github.com/G-o-r-a-n/Learning-Python/blob/da2675fe6a35045d099582463b6ac2f7389de11f/Task%2003%20-%20Beginner%20Control%20Structures%20-%20The%20Boolean%20Data%20type%20and%20if%2C%20else%2C%20and%20elif%20statements/full_name.py).
+The code for this objective can be found in the file: [full_name.py](https://github.com/G-o-r-a-n/Learning-Python/blob/main/Task%2003%20-%20Beginner%20Control%20Structures%20-%20The%20Boolean%20Data%20type%20and%20if%2C%20else%2C%20and%20elif%20statements/full_name.py).

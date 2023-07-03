@@ -12,5 +12,4 @@ The program performs the following:
 
 This task makes use of a while loop repetition structure for input collection and uses exception handling to validate user input.
 
-The Python script that accomplishes this can be found in the file: [while_loop.py](https://github.com/G-o-r-a-n/Learning-Python/blob/main/Task%2005%20-%20Beginner%20Control%20Structures%20-%20While%20Loop/while_loop.py
-).
+The Python script that accomplishes this can be found in the file: [while_loop.py](https://github.com/G-o-r-a-n/Learning-Python/blob/main/Task%2005%20-%20Beginner%20Control%20Structures%20-%20While%20Loop/while_loop.py).

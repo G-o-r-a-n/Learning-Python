@@ -14,4 +14,4 @@ The goal of this task was to write a Python program that:
     - Within 10 minutes of qualifying time = Bronze Push Pioneer
     - More than 10 minutes of qualifying time = No award
 
-The code for this task can be found in the file: [triathlon_awards.py](https://github.com/G-o-r-a-n/Learning-Python/blob/6dab7f0bf0fc58575b2119db1dac373cf1928d1b/Task%2004%20-%20Logical%20Programming%20-%20Operators/triathlon_awards.py).
+The code for this task can be found in the file: [triathlon_awards.py](https://github.com/G-o-r-a-n/Learning-Python/blob/main/Task%2004%20-%20Logical%20Programming%20-%20Operators/triathlon_awards.py).
